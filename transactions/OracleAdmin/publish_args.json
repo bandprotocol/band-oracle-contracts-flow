@@ -1,0 +1,27 @@
+[
+  {
+    "type": "Array",
+    "value": [
+      {
+        "type":"Address",
+        "value": "0x1b54752fbe36366c"
+      },
+      {
+        "type":"Address",
+        "value": "0xebad256745ecf87e"
+      },
+      {
+        "type":"Address",
+        "value": "0xfdf94054dce8f21f"
+      },
+      {
+        "type":"Address",
+        "value": "0x199ef989cd12f2c0"
+      },
+      {
+        "type":"Address",
+        "value": "0x12b4cb1001978ce9"
+      }
+    ]
+  }
+]

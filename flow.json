@@ -86,6 +86,53 @@
 		"testnet": "access.devnet.nodes.onflow.org:9000"
 	},
 	"accounts": {
+		"bun-mainnet": {
+			"address": "dd2792e4d9c851f2",
+			"key": {
+				"type": "file",
+				"index": 1,
+				"location": "keys/bun-mainnet.pkey"
+			}
+		},
+		"bun-test-main": {
+			"address": "bbf213c3b615756b",
+			"key": {
+				"type": "file",
+				"location": "keys/bun-test-main.pkey"
+			}
+		},
+		"bun-test1": {
+			"address": "40217112814ac550",
+			"key": {
+				"type": "file",
+				"index": 0,
+				"location": "keys/bun-test1.pkey"
+			}
+		},
+		"bun-test2": {
+			"address": "40217112814ac550",
+			"key": {
+				"type": "file",
+				"index": 1,
+				"location": "keys/bun-test2.pkey"
+			}
+		},
+		"bun-test3": {
+			"address": "40217112814ac550",
+			"key": {
+				"type": "file",
+				"index": 2,
+				"location": "keys/bun-test3.pkey"
+			}
+		},
+		"bun-test4": {
+			"address": "40217112814ac550",
+			"key": {
+				"type": "file",
+				"index": 3,
+				"location": "keys/bun-test4.pkey"
+			}
+		},
 		"default": {
 			"address": "045a1763c93006ca",
 			"key": "83c4da8100a5bb0086fd0835e0b48dbdf507ca4aa15dab56edccee06c82eb110"
@@ -97,6 +144,48 @@
 		"emulator-relayer": {
 			"address": "fd43f9148d4b725d",
 			"key": "2b42bf501bb3e07e9332b0cda9e68c18d0591cdc54aa701fb111991adf1a99fe"
+		},
+		"hot-wallet": {
+			"address": "3012362feb5c5f49",
+			"key": {
+				"type": "file",
+				"location": "hot-wallet.pkey"
+			}
+		},
+		"relayer-1": {
+			"address": "1b54752fbe36366c",
+			"key": {
+				"type": "file",
+				"location": "relayer-1.pkey"
+			}
+		},
+		"relayer-2": {
+			"address": "ebad256745ecf87e",
+			"key": {
+				"type": "file",
+				"location": "relayer-2.pkey"
+			}
+		},
+		"relayer-3": {
+			"address": "fdf94054dce8f21f",
+			"key": {
+				"type": "file",
+				"location": "relayer-3.pkey"
+			}
+		},
+		"relayer-4": {
+			"address": "199ef989cd12f2c0",
+			"key": {
+				"type": "file",
+				"location": "relayer-4.pkey"
+			}
+		},
+		"relayer-5": {
+			"address": "12b4cb1001978ce9",
+			"key": {
+				"type": "file",
+				"location": "relayer-5.pkey"
+			}
 		},
 		"testnet-oracle": {
 			"address": "4772ee0aba864de9",
