@@ -5,7 +5,8 @@
 			"aliases": {
 				"emulator": "f8d6e0586b0a20c7",
 				"testing": "0000000000000006",
-				"testnet": "4772ee0aba864de9"
+				"testnet": "2c71de7af78d1adf",
+				"mainnet": "6801a6222ebf784a"
 			}
 		}
 	},
@@ -87,7 +88,7 @@
 	},
 	"accounts": {
 		"bun-mainnet": {
-			"address": "dd2792e4d9c851f2",
+			"address": "6801a6222ebf784a",
 			"key": {
 				"type": "file",
 				"index": 1,
@@ -102,7 +103,7 @@
 			}
 		},
 		"bun-test1": {
-			"address": "40217112814ac550",
+			"address": "2c71de7af78d1adf",
 			"key": {
 				"type": "file",
 				"index": 0,
@@ -110,7 +111,7 @@
 			}
 		},
 		"bun-test2": {
-			"address": "40217112814ac550",
+			"address": "2c71de7af78d1adf",
 			"key": {
 				"type": "file",
 				"index": 1,
@@ -118,7 +119,7 @@
 			}
 		},
 		"bun-test3": {
-			"address": "40217112814ac550",
+			"address": "2c71de7af78d1adf",
 			"key": {
 				"type": "file",
 				"index": 2,
@@ -126,11 +127,18 @@
 			}
 		},
 		"bun-test4": {
-			"address": "40217112814ac550",
+			"address": "2c71de7af78d1adf",
 			"key": {
 				"type": "file",
 				"index": 3,
 				"location": "keys/bun-test4.pkey"
+			}
+		},
+		"relayer-test-1": {
+			"address": "738c931d7c5521b8",
+			"key": {
+				"type": "file",
+				"location": "keys/relayer-1.pkey"
 			}
 		},
 		"default": {
@@ -153,35 +161,35 @@
 			}
 		},
 		"relayer-1": {
-			"address": "1b54752fbe36366c",
+			"address": "cafe0a890a10da1c",
 			"key": {
 				"type": "file",
 				"location": "relayer-1.pkey"
 			}
 		},
 		"relayer-2": {
-			"address": "ebad256745ecf87e",
+			"address": "25b381cdd76fa4ea",
 			"key": {
 				"type": "file",
 				"location": "relayer-2.pkey"
 			}
 		},
 		"relayer-3": {
-			"address": "fdf94054dce8f21f",
+			"address": "de60e31ce03014d1",
 			"key": {
 				"type": "file",
 				"location": "relayer-3.pkey"
 			}
 		},
 		"relayer-4": {
-			"address": "199ef989cd12f2c0",
+			"address": "d54ad1852cb56af8",
 			"key": {
 				"type": "file",
 				"location": "relayer-4.pkey"
 			}
 		},
 		"relayer-5": {
-			"address": "12b4cb1001978ce9",
+			"address": "34b87114db0e38bd",
 			"key": {
 				"type": "file",
 				"location": "relayer-5.pkey"
